@@ -1,3 +1,3 @@
 # hello-world
 first repository in github
-why am learning github?
+why am i learning github?
